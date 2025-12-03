@@ -18,6 +18,7 @@ Construir una aplicacion en donde un cliente pueda tomar su pedido y este llegue
 ## Screenshots
 
 ### Inicio 
-<img src="![Screenshot_20251202_190401_Cafeteria--](https://github.com/user-attachments/assets/8e832cfb-d968-4398-81a7-8ca0461f5c79)" width="250">
-
+<p algin="center">
+<img src="https://github.com/Kitorishi/Cafe--/blob/master/inicio.jpg" width="250">
+</p>
 
